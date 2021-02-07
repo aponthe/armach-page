@@ -1,0 +1,7 @@
+*
+TITULO:"ENFERMERA"
+AREA:"MEDICINA"
+TALLAS:"CH, M, G"
+INFORMACION:"Lorem ipsum dolor sit amet consectetur adipiscing elit faucibus arcu, 	per ullamcorper fusce aliquet sodales mus hac aenean nulla, pretium pellentesque 	sollicitudin ante metus vestibulum ridiculus molestie. Mauris enim cubilia blandit 	non habitasse iaculis dui porttitor condimentum congue volutpat pharetra malesuada 	imperdiet hendrerit, habitant suspendisse gravida maecenas nec aptent duis magnis 	praesent litora potenti leo ante. Inceptos dis facilisi eleifend netus dignissim 	tempus nascetur, elementum praesent bibendum dui blandit in, ut tortor volutpat 	pharetra taciti est."
+COLORES:"negro, azul, verde"
+*
